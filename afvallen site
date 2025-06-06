@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Afvallen hoeft niet moeilijk te zijn</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background: #f8f8f8; color: #333; }
+    header { background-color: #6fcf97; padding: 2rem; text-align: center; color: white; }
+    section { padding: 2rem; max-width: 800px; margin: auto; }
+    footer { background-color: #333; color: white; text-align: center; padding: 1rem; }
+    .button { background-color: #6fcf97; color: white; padding: 0.8rem 1.2rem; text-decoration: none; border-radius: 8px; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Afvallen hoeft niet moeilijk te zijn</h1>
+  <p>Persoonsgerichte begeleiding voor jouw lichaamstransformatie</p>
+</header>
+
+<section>
+  <h2>Welkom</h2>
+  <p>Wil jij afvallen of juist aankomen, maar weet je niet waar je moet beginnen? Of heb je al van alles geprobeerd zonder blijvend resultaat?</p>
+  <p>Mijn naam is <strong>Marijn</strong>, en ik ben de persoon die jou graag wil helpen begeleiden in een lichaamstransitie — ongeacht of dit het aankomen of verliezen van lichaamsgewicht betreft.</p>
+  <p>Door mijn persoonlijke ervaring die ik de afgelopen jaren heb opgedaan, ben ik in de gelegenheid om jou goed te kunnen ondersteunen in dit proces — voor een scherpe prijs.</p>
+</section>
+
+<section>
+  <h2>Wat kun je verwachten?</h2>
+  <ul>
+    <li>1-op-1 begeleiding volledig afgestemd op jouw situatie</li>
+    <li>Realistische en duurzame doelen</li>
+    <li>Voedingsadvies dat past bij jouw leven</li>
+    <li>Wekelijkse contactmomenten (online of via WhatsApp)</li>
+  </ul>
+  <p><strong>Prijzen zijn afhankelijk van jouw persoonlijke traject.</strong> Tijdens een gratis intake bespreken we samen wat jij nodig hebt en wat daar bij past.</p>
+</section>
+
+<section>
+  <h2>Gratis intake plannen</h2>
+  <p>Wil je weten wat ik voor jou kan betekenen? Neem gerust contact op voor een vrijblijvend gesprek.</p>
+  <p>
+    📧 E-mail: <a href="mailto:jouw@email.com">jouw@email.com</a><br>
+    📱 WhatsApp: <a href="https://wa.me/31612345678">06-12345678</a>
+  </p>
+</section>
+
+<footer>
+  <p>&copy; 2025 Afvallen hoeft niet moeilijk te zijn | Marijn</p>
+</footer>
+
+</body>
+</html>
